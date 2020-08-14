@@ -142,6 +142,12 @@ figure {
     width: 100%;
 }
 
+@media only screen and (max-width: 1000px) {
+    #fuchs-header {
+        background-position: 80%;
+    }
+}
+
 #fuchs-header .overlay,
 .fuchs-cover .overlay {
     position: absolute;
